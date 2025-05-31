@@ -59,6 +59,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\ConcreteProperties.cs" />
     <Compile Include="Models\ConstructionEntry.cs" />
     <Compile Include="Models\ForceInputEntry.cs" />
     <Compile Include="Models\FoundationEntry.cs" />
