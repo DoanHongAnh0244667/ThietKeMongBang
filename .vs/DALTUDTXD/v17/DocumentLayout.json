@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\models\\foundationentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5496683-9640-4B8F-A38F-DD120B07F44F}|Solution Items{A5496683-9640-4B8F-A38F-DD120B07F44F}|C:\\Users\\Admin\\Source\\Repos\\ThietKeMongBang\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A5496683-9640-4B8F-A38F-DD120B07F44F}|Solution Items{A5496683-9640-4B8F-A38F-DD120B07F44F}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\models\\geologicalaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\models\\geologicalaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|c:\\users\\admin\\source\\repos\\thietkemongbang\\daltudtxd\\models\\geologicalaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\models\\geologicalaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\views\\page5view.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -90,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,6 +117,10 @@
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FoundationEntry.cs",
@@ -136,23 +136,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-31T16:28:36.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "GeologicalAxis.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\GeologicalAxis.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Models\\GeologicalAxis.cs",
@@ -160,8 +143,7 @@
               "RelativeToolTip": "DALTUDTXD\\Models\\GeologicalAxis.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T16:12:26.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T16:12:26.592Z"
             },
             {
               "$type": "Document",
@@ -188,6 +170,10 @@
               "WhenOpened": "2025-04-18T07:37:06.252Z"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HomeViewModel.cs",
@@ -212,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\App.xaml.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\App.xaml.cs",
@@ -338,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\App.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\App.xaml",
@@ -349,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\HomeView.xaml.cs",
