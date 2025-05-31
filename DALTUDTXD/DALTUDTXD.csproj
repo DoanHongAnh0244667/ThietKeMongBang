@@ -73,6 +73,7 @@
     <Compile Include="ViewModels\Page3ViewModel.cs" />
     <Compile Include="ViewModels\Page4ViewModel.cs" />
     <Compile Include="ViewModels\Page5ViewModel.cs" />
+    <Compile Include="ViewModels\RelayCommand.cs" />
     <Compile Include="ViewModels\ViewModelBase.cs" />
     <Compile Include="ViewModels\ViewModelCommand.cs" />
     <Compile Include="Views\HomeView.xaml.cs">
