@@ -59,6 +59,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\FoundationEntry.cs" />
+    <Compile Include="Models\GeologicalAxis.cs" />
+    <Compile Include="Models\SteelProperties.cs" />
     <Compile Include="Models\UserAccountModel.cs" />
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Repositories\IUserRepository.cs" />
