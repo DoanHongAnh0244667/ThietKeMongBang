@@ -90,7 +90,6 @@ namespace DALTUDTXD.ViewModels
             // Khởi tạo command, mỗi khi Execute sẽ đổi CurrentChildView + Caption + Icon
             ShowHomeViewCommand = new ViewModelCommand(_ => ExecuteShowHomeView());
             ShowCal1ViewCommand = new ViewModelCommand(_ => ExecuteShowCal1View());
-            ShowCal2ViewCommand = new ViewModelCommand(_ => ExecuteShowCal2View());
             ShowCal3ViewCommand = new ViewModelCommand(_ => ExecuteShowCal3View());
             ShowCal4ViewCommand = new ViewModelCommand(_ => ExecuteShowCal4View());
             ShowCal5ViewCommand = new ViewModelCommand(_ => ExecuteShowCal5View());
@@ -113,12 +112,7 @@ namespace DALTUDTXD.ViewModels
             Icon = IconChar.Ruler;
         }
 
-        private void ExecuteShowCal2View()
-        {
-            CurrentChildView = new Page2ViewModel();
-            Caption = "Thông số cốt thép";
-            Icon = IconChar.TrowelBricks;
-        }
+
 
         private void ExecuteShowCal3View()
         {
