@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 using FontAwesome.Sharp;
 using System.Windows.Input;
 using DALTUDTXD.Models;
-using DALTUDTXD.Repositories;
+using System.Collections.ObjectModel;
+using System.Windows;
 
 namespace DALTUDTXD.ViewModels
 {
@@ -18,16 +19,10 @@ namespace DALTUDTXD.ViewModels
         private string _caption;
         private IconChar _icon;
 
-        private IUserRepository userRepository;
-
         //Properties
         public UserAccountModel CurrentUserAccount
         {
-            get
-            {
-                return _currentUserAccount;
-            }
-
+            get => _currentUserAccount;
             set
             {
                 _currentUserAccount = value;
@@ -37,11 +32,7 @@ namespace DALTUDTXD.ViewModels
 
         public ViewModelBase CurrentChildView
         {
-            get
-            {
-                return _currentChildView;
-            }
-
+            get => _currentChildView;
             set
             {
                 _currentChildView = value;
@@ -51,11 +42,7 @@ namespace DALTUDTXD.ViewModels
 
         public string Caption
         {
-            get
-            {
-                return _caption;
-            }
-
+            get => _caption;
             set
             {
                 _caption = value;
@@ -65,11 +52,7 @@ namespace DALTUDTXD.ViewModels
 
         public IconChar Icon
         {
-            get
-            {
-                return _icon;
-            }
-
+            get => _icon;
             set
             {
                 _icon = value;
@@ -85,60 +68,85 @@ namespace DALTUDTXD.ViewModels
         public ICommand ShowCal4ViewCommand { get; }
         public ICommand ShowCal5ViewCommand { get; }
 
+        public HomeViewModel HomeViewModel { get; }
+        public Page1ViewModel Page1ViewModel { get; }
+        public Page2ViewModel Page2ViewModel { get; }
+        public Page3ViewModel Page3ViewModel { get; }
+        public Page4ViewModel Page4ViewModel { get; }
+        public Page5ViewModel Page5ViewModel { get; }
+
         public MainViewModel()
         {
-            // Khởi tạo command, mỗi khi Execute sẽ đổi CurrentChildView + Caption + Icon
-            ShowHomeViewCommand = new ViewModelCommand(_ => ExecuteShowHomeView());
-            ShowCal1ViewCommand = new ViewModelCommand(_ => ExecuteShowCal1View());
-            ShowCal2ViewCommand = new ViewModelCommand(_ => ExecuteShowCal2View());
-            ShowCal3ViewCommand = new ViewModelCommand(_ => ExecuteShowCal3View());
-            ShowCal4ViewCommand = new ViewModelCommand(_ => ExecuteShowCal4View());
-            ShowCal5ViewCommand = new ViewModelCommand(_ => ExecuteShowCal5View());
+            HomeViewModel = new HomeViewModel();
+            Page1ViewModel = new Page1ViewModel();
+            Page2ViewModel = new Page2ViewModel(this);
+            Page3ViewModel = new Page3ViewModel(this);
+            Page4ViewModel = new Page4ViewModel(this);
+            Page5ViewModel = new Page5ViewModel(this);
 
-            // Khi khởi động, mặc định hiển thị Home
-            ExecuteShowHomeView();
+            ShowHomeViewCommand = new ViewModelCommand(ExecuteShowHomeViewCommand);
+            ShowCal1ViewCommand = new ViewModelCommand(ExecuteShowCal1ViewCommand);
+            ShowCal2ViewCommand = new ViewModelCommand(ExecuteShowCal2ViewCommand);
+            ShowCal3ViewCommand = new ViewModelCommand(ExecuteShowCal3ViewCommand);
+            ShowCal4ViewCommand = new ViewModelCommand(ExecuteShowCal4ViewCommand);
+            ShowCal5ViewCommand = new ViewModelCommand(ExecuteShowCal5ViewCommand);
+
+            // Default View
+            ExecuteShowHomeViewCommand(null);
         }
 
-        private void ExecuteShowHomeView()
+        public ObservableCollection<ConstructionEntry> ConstructionList { get; set; } = new ObservableCollection<ConstructionEntry>();
+
+        private void ExecuteShowHomeViewCommand(object obj)
         {
-            CurrentChildView = new HomeViewModel();   
+            CurrentChildView = HomeViewModel;
             Caption = "Trang chủ";
             Icon = IconChar.Home;
         }
 
-        private void ExecuteShowCal1View()
+        private void ExecuteShowCal1ViewCommand(object obj)
         {
-            CurrentChildView = new Page1ViewModel();
-            Caption = "Thông số móng cơ bản";
-            Icon = IconChar.Ruler;
+            ExecuteShowPage1ViewCommand(null);
         }
 
-        private void ExecuteShowCal2View()
+        private void ExecuteShowCal2ViewCommand(object obj)
         {
-            CurrentChildView = new Page2ViewModel();
-            Caption = "Thông số cốt thép";
+            CurrentChildView = Page2ViewModel;
+            Caption = "Thông số móng";
             Icon = IconChar.TrowelBricks;
         }
 
-        private void ExecuteShowCal3View()
+        private void ExecuteShowCal3ViewCommand(object obj)
         {
-            CurrentChildView = new Page3ViewModel();
-            Caption = "Số liệu nền đất";
+            CurrentChildView = Page3ViewModel;
+            Caption = "Thông số cốt thép";
             Icon = IconChar.HouseFloodWater;
         }
 
-        private void ExecuteShowCal4View()
+        private void ExecuteShowCal4ViewCommand(object obj)
         {
-            CurrentChildView = new Page4ViewModel();
+            CurrentChildView = Page4ViewModel;
             Caption = "Tải trọng";
             Icon = IconChar.ArrowAltCircleDown;
         }
 
-        private void ExecuteShowCal5View()
+        private void ExecuteShowCal5ViewCommand(object obj)
         {
-            CurrentChildView = new Page5ViewModel();
+            CurrentChildView = Page5ViewModel;
             Caption = "Tính toán móng";
             Icon = IconChar.Calculator;
+        }
+
+        private void ExecuteShowPage1ViewCommand(object obj)
+        {
+            CurrentChildView = Page1ViewModel;
+            Caption = "Thông số địa chất";
+            Icon = IconChar.Ruler;
+        }
+
+        public void ExecuteShowCal5View()
+        {
+            ExecuteShowCal5ViewCommand(null);
         }
     }
 }
