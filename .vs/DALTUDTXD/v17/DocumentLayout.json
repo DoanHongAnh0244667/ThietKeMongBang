@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|c:\\users\\admin\\source\\repos\\thietkemongbang\\daltudtxd\\viewmodels\\page4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\views\\page3view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\views\\page3view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\page3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\page3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\page5viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\page5viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\page4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\page4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|c:\\users\\admin\\source\\repos\\thietkemongbang\\daltudtxd\\models\\constructionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\models\\constructionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5496683-9640-4B8F-A38F-DD120B07F44F}|Solution Items{A5496683-9640-4B8F-A38F-DD120B07F44F}|C:\\Users\\Admin\\Source\\Repos\\ThietKeMongBang\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A5496683-9640-4B8F-A38F-DD120B07F44F}|Solution Items{A5496683-9640-4B8F-A38F-DD120B07F44F}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\models\\forceinputentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\models\\forceinputentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\views\\page1view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -19,24 +47,8 @@
       "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\page5viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\page5viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\page3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\page3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\page2viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\viewmodels\\page2viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\views\\page3view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|solutionrelative:daltudtxd\\views\\page3view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2931592-8C5C-4931-9745-D35B564EB505}|DALTUDTXD\\DALTUDTXD.csproj|C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\daltudtxd\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,20 +154,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T12:42:42.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForceInputEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\ForceInputEntry.cs",
+              "RelativeDocumentMoniker": "DALTUDTXD\\Models\\ForceInputEntry.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\ForceInputEntry.cs",
+              "RelativeToolTip": "DALTUDTXD\\Models\\ForceInputEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:38:49.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConstructionEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\ConstructionEntry.cs",
+              "RelativeDocumentMoniker": "DALTUDTXD\\Models\\ConstructionEntry.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\ConstructionEntry.cs",
+              "RelativeToolTip": "DALTUDTXD\\Models\\ConstructionEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:38:47.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Page4ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page4ViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\Page4ViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page4ViewModel.cs",
               "RelativeToolTip": "DALTUDTXD\\ViewModels\\Page4ViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T18:12:19.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "MainView.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\MainView.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\MainView.xaml",
@@ -166,18 +215,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Page3View.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page3View.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\Page3View.xaml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page3View.xaml",
               "RelativeToolTip": "DALTUDTXD\\Views\\Page3View.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-18T07:33:55.313Z"
+              "WhenOpened": "2025-04-18T07:33:55.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\HomeViewModel.cs",
@@ -189,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\RelayCommand.cs",
@@ -201,19 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Page5ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page5ViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\Page5ViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page5ViewModel.cs",
               "RelativeToolTip": "DALTUDTXD\\ViewModels\\Page5ViewModel.cs",
-              "ViewState": "AgIAALwAAAAAAAAAAAAwwNIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T07:37:06.252Z"
+              "WhenOpened": "2025-04-18T07:37:06.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Page2View.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page2View.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\Page2View.xaml",
@@ -224,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Page2ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page2ViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\Page2ViewModel.cs",
@@ -235,24 +286,21 @@
               "WhenOpened": "2025-05-31T18:09:00.915Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Page3ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page3ViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\Page3ViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page3ViewModel.cs",
               "RelativeToolTip": "DALTUDTXD\\ViewModels\\Page3ViewModel.cs",
-              "ViewState": "AgIAAAYCAAAAAAAAAAAqwBACAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAANYBAAAAAAAAAAAwwCQCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T18:12:20.642Z"
+              "WhenOpened": "2025-05-31T18:12:20.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Page1ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\Page1ViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\Page1ViewModel.cs",
@@ -264,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "FoundationEntry.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\FoundationEntry.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Models\\FoundationEntry.cs",
@@ -276,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Page4View.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page4View.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\Page4View.xaml",
@@ -287,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "GeologicalAxis.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Models\\GeologicalAxis.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Models\\GeologicalAxis.cs",
@@ -299,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Page5View.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page5View.xaml.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\Page5View.xaml.cs",
@@ -311,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Page5View.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page5View.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\Page5View.xaml",
@@ -322,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\App.xaml.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\App.xaml.cs",
@@ -334,19 +382,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "DALTUDTXD\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAA2wFQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAArwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T07:10:11.317Z"
+              "WhenOpened": "2025-04-18T07:10:11.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "MainView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\MainView.xaml.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\MainView.xaml.cs",
@@ -358,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\ViewModelBase.cs",
@@ -370,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ViewModelCommand.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\ViewModels\\ViewModelCommand.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\ViewModels\\ViewModelCommand.cs",
@@ -382,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\HomeView.xaml",
@@ -393,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Page1View.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\Page1View.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\Page1View.xaml",
@@ -404,18 +453,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\App.xaml",
               "RelativeDocumentMoniker": "DALTUDTXD\\App.xaml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\App.xaml",
               "RelativeToolTip": "DALTUDTXD\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-18T06:43:00.103Z"
+              "WhenOpened": "2025-04-18T06:43:00.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ThietKeMongBang\\DALTUDTXD\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "DALTUDTXD\\Views\\HomeView.xaml.cs",
