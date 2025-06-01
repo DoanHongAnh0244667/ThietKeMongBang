@@ -88,12 +88,13 @@
                     CornerRadius="8"
                     Padding="15">
                 <StackPanel>
+                    <!-- CHỈ THAY ĐỔI HorizontalAlignment thành Left -->
                     <TextBlock Text="CHỌN NỘI LỰC"
                                FontSize="18"
                                FontWeight="Bold"
                                Foreground="{StaticResource color3Brush}"
                                Margin="0,0,0,10"
-                               HorizontalAlignment="Center"/>
+                               HorizontalAlignment="Left"/>
 
                     <Grid Margin="0,5,0,0">
                         <Grid.ColumnDefinitions>
@@ -143,12 +144,13 @@
                     Padding="15"
                     Margin="0,20,0,0">
                 <StackPanel>
+                    <!-- CHỈ THAY ĐỔI HorizontalAlignment thành Left -->
                     <TextBlock Text="KẾT QUẢ TERZAGHI"
                                FontSize="18"
                                FontWeight="Bold"
                                Foreground="{StaticResource color3Brush}"
                                Margin="0,0,0,10"
-                               HorizontalAlignment="Center"/>
+                               HorizontalAlignment="Left"/>
 
                     <Grid>
                         <Grid.ColumnDefinitions>
@@ -192,7 +194,7 @@
                                    VerticalAlignment="Center"
                                    Margin="0,0,0,5"/>
 
-                        <!-- Row 1: Ptb &lt; [P] -->
+                        <!-- Row 1: Ptb < [P] -->
                         <TextBlock Grid.Row="1" Grid.Column="0"
                                    Text="Ptb ="
                                    Foreground="{StaticResource titleColor1Brush}"
@@ -229,7 +231,7 @@
                                    VerticalAlignment="Center"
                                    Margin="10,0,0,5"/>
 
-                        <!-- Row 2: Pmax &lt; 1.2 × [P] -->
+                        <!-- Row 2: Pmax < 1.2 × [P] -->
                         <TextBlock Grid.Row="2" Grid.Column="0"
                                    Text="Pmax ="
                                    Foreground="{StaticResource titleColor1Brush}"
@@ -339,11 +341,12 @@
                     Padding="15"
                     Margin="0,20,0,0">
                 <StackPanel>
+                    <!-- CHỈ THAY ĐỔI HorizontalAlignment thành Left -->
                     <TextBlock Text="TÍNH TOÁN CỐT THÉP"
                                FontSize="18"
                                FontWeight="Bold"
                                Foreground="{StaticResource color3Brush}"
-                               HorizontalAlignment="Center"
+                               HorizontalAlignment="Left"
                                Margin="0,0,0,15"/>
 
                     <Grid>
