@@ -50,7 +50,7 @@
             </Setter>
         </Style>
 
-        <!-- Style cho ComboBox (đơn giản, không override ControlTemplate) -->
+        <!-- Style cho ComboBox -->
         <Style x:Key="ModernComboBox" TargetType="ComboBox">
             <Setter Property="Margin" Value="5"/>
             <Setter Property="Padding" Value="8,4"/>
@@ -58,7 +58,7 @@
             <Setter Property="Background" Value="{StaticResource panelColorBrush}"/>
             <Setter Property="BorderBrush" Value="{StaticResource winBorderColor1Brush}"/>
             <Setter Property="BorderThickness" Value="1"/>
-            <Setter Property="Foreground" Value="{StaticResource titleColor1Brush}"/>
+            <Setter Property="Foreground" Value="Black"/>
             <Setter Property="FontSize" Value="13"/>
             <Setter Property="VerticalContentAlignment" Value="Center"/>
         </Style>

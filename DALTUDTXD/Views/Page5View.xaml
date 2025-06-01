@@ -58,7 +58,7 @@
             <Setter Property="Background" Value="{StaticResource panelColorBrush}"/>
             <Setter Property="BorderBrush" Value="{StaticResource winBorderColor1Brush}"/>
             <Setter Property="BorderThickness" Value="1"/>
-            <Setter Property="Foreground" Value="{StaticResource titleColor1Brush}"/>
+            <Setter Property="Foreground" Value="{StaticResource panelColorBrush}"/>
             <Setter Property="FontSize" Value="13"/>
             <Setter Property="VerticalContentAlignment" Value="Center"/>
         </Style>
@@ -126,13 +126,13 @@
                         <ComboBox.ItemTemplate>
                             <DataTemplate>
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBlock Text="{Binding Mong.TenMong}" FontWeight="Bold" Foreground="{StaticResource titleColor1Brush}"/>
-                                    <TextBlock Text="  - M: " Margin="5,0" Foreground="{StaticResource titleColor2Brush}"/>
-                                    <TextBlock Text="{Binding Moment, StringFormat=N2}" Foreground="{StaticResource titleColor1Brush}"/>
-                                    <TextBlock Text="  - N: " Margin="5,0" Foreground="{StaticResource titleColor2Brush}"/>
-                                    <TextBlock Text="{Binding AxialForce, StringFormat=N2}" Foreground="{StaticResource titleColor1Brush}"/>
-                                    <TextBlock Text="  - Q: " Margin="5,0" Foreground="{StaticResource titleColor2Brush}"/>
-                                    <TextBlock Text="{Binding ShearForce, StringFormat=N2}" Foreground="{StaticResource titleColor1Brush}"/>
+                                    <TextBlock Text="{Binding Mong.TenMong}" FontWeight="Bold"  Foreground="black"/>
+                                    <TextBlock Text="  - M: " Margin="5,0"  Foreground="black"/>
+                                    <TextBlock Text="{Binding Moment, StringFormat=N2}"  Foreground="black"/>
+                                    <TextBlock Text="  - N: " Margin="5,0"  Foreground="black"/>
+                                    <TextBlock Text="{Binding AxialForce, StringFormat=N2}"  Foreground="black"/>
+                                    <TextBlock Text="  - Q: " Margin="5,0"  Foreground="black"/>
+                                    <TextBlock Text="{Binding ShearForce, StringFormat=N2}" Foreground="black"/>
                                 </StackPanel>
                             </DataTemplate>
                         </ComboBox.ItemTemplate>

@@ -108,7 +108,7 @@
                                   SelectedItem="{Binding SelectedForceInput}"
                                   Background="{StaticResource panelColorBrush}"
                                   BorderBrush="{StaticResource winBorderColor1Brush}"
-                                  Foreground="{StaticResource titleColor1Brush}"
+                                  Foreground="Black"
                                   Height="32"
                                   Margin="0,0,20,0"/>
 
@@ -369,7 +369,7 @@
                                   SelectedItem="{Binding SelectedSteelDiameter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                                   Background="{StaticResource panelColorBrush}"
                                   BorderBrush="{StaticResource winBorderColor1Brush}"
-                                  Foreground="{StaticResource titleColor1Brush}"
+                                   Foreground="black"
                                   Margin="0,0,20,0"/>
 
                         <StackPanel Orientation="Horizontal" Grid.Column="2" Margin="0,0,20,0">
