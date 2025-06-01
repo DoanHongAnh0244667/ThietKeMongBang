@@ -108,7 +108,7 @@
 
                     <RadioButton Style="{StaticResource menuButton}"
                                  Tag="{StaticResource color3}"
-                                 Command="{Binding ShowCal3ViewCommand}">
+                                 Command="{Binding ShowCal3ViewCommand}" Checked="RadioButton_Checked">
                         <StackPanel Orientation="Horizontal">
                             <fa:IconImage Icon="HouseFloodWater" Style="{StaticResource menuButtonIcon}"/>
                             <TextBlock Text="Thông số cốt thép" Style="{StaticResource menuButtonText}"/>
